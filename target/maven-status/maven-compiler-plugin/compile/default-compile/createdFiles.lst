@@ -1,0 +1,8 @@
+anhlan/pageObjects/landingPage.class
+anhlan/resources/extentReportNG.class
+anhlan/pageObjects/thanksPage.class
+anhlan/pageObjects/productCatalogue.class
+anhlan/abstractComponents/abstractComponent.class
+anhlan/pageObjects/orderPage.class
+anhlan/pageObjects/cartPage.class
+anhlan/pageObjects/checkoutPage.class
